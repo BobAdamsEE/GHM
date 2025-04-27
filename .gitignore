@@ -26,5 +26,5 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
 Input PCBA/GHM-Input-PCBA/~GHM-Input-PCBA.kicad_pcb.lck
+*.lck

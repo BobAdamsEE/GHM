@@ -1,0 +1,6 @@
+"Part ID","Description","Reference","Qty","Manufacturer","MPN","Manufacturer 2","MPN 2","DNP"
+"CAP-0003","CAP CER 100nF 10% 50V X7R 0603 AEC","C83","1","TDK","CGA3E2X7R1H104K080AA","Kyocera","06035C104K4T2A",""
+"CON-0004","CONN RA SMT USB MICRO AB","J1","1","Molex","475900001","","",""
+"CON-0003","CONN RA SMT 16 POS FFC","J3","1","Hirose","FH34SRJ-16S-0.5SH(99)","","",""
+"IO-0001","IO BUTTON MOMENTARY SMD","SW1","1","Alps Alpine","SKSGACE010","","",""
+"IO-0002","IO SLIDE SWITCH RA SMD","SW2","1","C&K","JS102011JAQN","","",""
